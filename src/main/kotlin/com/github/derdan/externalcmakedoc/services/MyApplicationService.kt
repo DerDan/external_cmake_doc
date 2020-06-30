@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.derdan.externalcmakedoc.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.derdan.externalcmakedoc.MyBundle
 
 class MyApplicationService {
 
